@@ -1,0 +1,40 @@
+.LoginFormDiv{
+    border: 1px solid black;
+    width: 30%;
+    margin: auto;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(/loginBg.jpg);
+width: 100vw;
+}
+
+
+.form{
+    background-color: black;
+    opacity: 80px;
+    height: 500px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    top: 10px; 
+    left: 50px;
+}
+
+
+.FormHeading{
+    color: Red;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
